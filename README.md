@@ -6,8 +6,6 @@
 
 💻 Comfortable across **C, C++, Python, JavaScript/TypeScript, Java, SQL**, and building full-stack projects with **Spring Boot / TypeScript APIs**
 
-🚢 NCC Naval Wing Cadet | 🎤 Head of Administration, MUN Club — building discipline and leadership alongside code
-
 🌱 Actively preparing for SWE internships — open to collaborating on backend/API projects and DSA study groups
 
 LeetCode: https://leetcode.com/u/04aarnal/
