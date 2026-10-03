@@ -6,10 +6,11 @@ I'm an engineering student at **Thakur College of Engineering & Technology, Mumb
 
 | Project | What you'll find |
 | --- | --- |
+| [Student Notes Manager](https://github.com/aarna02gupta-create/student-notes-manager) | Java/Spring Boot REST API with CRUD, request validation, student/subject filters, and in-memory storage. |
 | [Taskey — HerSpark Ideathon](https://github.com/aarna02gupta-create/taskkey-herspark-ideathon) | React frontend prototype for task-scoped delegation: permission comparisons, owner/helper views, simulated expiry and revocation, and audit logs. |
-| [Student Notes Manager](https://github.com/aarna02gupta-create/student-notes-manager) | Spring Boot REST API source with CRUD, request validation, student/subject filters, and in-memory storage. |
 | [DSA Problems](https://github.com/aarna02gupta-create/DSA-Problems) | Java practice covering arrays, matrices, linked lists, and problem-solving patterns. |
-| [Active Life Hub](https://github.com/aarna02gupta-create/active-life-hub-api) | Sports and fitness discovery concept; the repository currently contains frontend configuration and is an incomplete upload. |
+
+I am also working on data-engineering work that is not yet published here.
 
 ## Skills and current focus
 
