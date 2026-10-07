@@ -23,8 +23,6 @@ I am also working on data-engineering work that is not yet published here.
 - **Tools:** Git, GitHub, Postman, VS Code
 - **Learning:** DSA in Java, API design, relational data modelling, and connecting frontend flows to backend services
 
-For Taskey, I handle the frontend prototype as part of our HerSpark team. The current repository uses mock data; server-side authorization and signed tokens are future work.
-
 I'm interested in SWE internships and collaboration on backend/API projects.
 
 [LinkedIn](https://www.linkedin.com/in/aarna-gupta-3a54b6325) · [LeetCode](https://leetcode.com/u/04aarnal/) · [Repositories](https://github.com/aarna02gupta-create?tab=repositories)
