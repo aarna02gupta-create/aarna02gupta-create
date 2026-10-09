@@ -1,28 +1,21 @@
-# Hi, I'm Aarna Gupta
+# Aarna Gupta | Computer Engineering Student
 
-I'm an engineering student at **Thakur College of Engineering & Technology, Mumbai**, building a portfolio in software development. My current focus is Java, Spring Boot APIs, SQL, and DSA, alongside frontend work in React.
+I'm a computer engineering student at **Thakur College of Engineering & Technology, Mumbai**, building projects with Java, Spring Boot, Python and SQL.
+My work spans backend APIs, data validation and Power BI analysis, alongside React frontend prototypes and DSA practice in Java.
+I'm seeking internship and placement opportunities in software development and data engineering.
 
-## Projects
+## Featured projects
 
-| Project | What you'll find |
-| --- | --- |
-| [Student Notes Manager](https://github.com/aarna02gupta-create/student-notes-manager) | Java/Spring Boot REST API with CRUD, request validation, student/subject filters, and in-memory storage. |
-| [Taskey — HerSpark Ideathon](https://github.com/aarna02gupta-create/taskkey-herspark-ideathon) | React frontend prototype for task-scoped delegation: permission comparisons, owner/helper views, simulated expiry and revocation, and audit logs. |
+- [Manufacturing Logistics Analytics](https://github.com/aarna02gupta-create/manufacturing-logistics) — An independent portfolio project built after my internship to apply what I learned, using **synthetic data** for Python validation, MySQL ingestion and Power BI freight-cost and delivery analysis.
+- [Student Notes Manager](https://github.com/aarna02gupta-create/student-notes-manager) — Java/Spring Boot REST API with CRUD, request validation, student/subject filters, automated tests and in-memory storage.
+- [Taskey — HerSpark Ideathon](https://github.com/aarna02gupta-create/taskkey-herspark-ideathon) — Team React frontend prototype for task-scoped delegation; I handle frontend work, with permissions, expiry and revocation simulated using mock data.
+- [DSA Problems](https://github.com/aarna02gupta-create/DSA-Problems) — Java practice covering arrays, matrices, linked lists and interview problem-solving.
 
-I am also working on data-engineering work that is not yet published here.
-
-## DSA practice
-
-[DSA Problems](https://github.com/aarna02gupta-create/DSA-Problems) contains my Java practice solutions for arrays, matrices, linked lists, and interview problem-solving.
-
-## Skills and current focus
+## Tech stack
 
 - **Backend:** Java, Spring Boot, REST APIs
-- **Data:** SQL, PostgreSQL, MySQL; Power BI for analysis and visualization
+- **Data and analytics:** Python, SQL, MySQL, PostgreSQL, Power BI
 - **Frontend:** React, JavaScript, HTML, CSS
-- **Tools:** Git, GitHub, Postman, VS Code
-- **Learning:** DSA in Java, API design, relational data modelling, and connecting frontend flows to backend services
-
-I'm interested in SWE internships and collaboration on backend/API projects.
+- **Tools:** Git, GitHub, GitHub Actions, Maven, Postman, VS Code
 
 [LinkedIn](https://www.linkedin.com/in/aarna-gupta-3a54b6325) · [LeetCode](https://leetcode.com/u/04aarnal/) · [Repositories](https://github.com/aarna02gupta-create?tab=repositories)
