@@ -9,7 +9,7 @@ I'm seeking internship and placement opportunities in software development and d
 - [Manufacturing Logistics Analytics](https://github.com/aarna02gupta-create/manufacturing-logistics) — An independent portfolio project built after my internship to apply what I learned, using **synthetic data** for Python validation, MySQL ingestion and Power BI freight-cost and delivery analysis.
 - [Student Notes Manager](https://github.com/aarna02gupta-create/student-notes-manager) — Java/Spring Boot REST API with CRUD, request validation, student/subject filters, automated tests and in-memory storage.
 - [Taskey — HerSpark Ideathon](https://github.com/aarna02gupta-create/taskkey-herspark-ideathon) — Team React frontend prototype for task-scoped delegation; I handle frontend work, with permissions, expiry and revocation simulated using mock data.
-- [DSA Problems](https://github.com/aarna02gupta-create/DSA-Problems) — Java practice covering arrays, matrices, linked lists and interview problem-solving.
+
 
 ## Tech stack
 
